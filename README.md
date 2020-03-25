@@ -8,4 +8,3 @@ ____________
 
 Front End App:
 ![GitHub Logo](/frontend_app.png)
-Format: ![HackerNews Aggregator on viktordev.com](https://viktordev.com)
